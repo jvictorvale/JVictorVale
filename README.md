@@ -1,7 +1,6 @@
 ## Olá, bem-vindo ao meu GitHub!
 
 - Me chamo João Victor, sou desenvolvedor backend e graduando em Ciência da Computação pelo IFCE.
-- Desenvolvo aplicações em .NET no NDS (Núcleo de Desenvolvimento de Software) IFCE como estágiario.
 
 ## Habilidades:
 ![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
