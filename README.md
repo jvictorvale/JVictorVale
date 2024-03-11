@@ -12,9 +12,3 @@
  ## Contato:
 [![linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvictor-vale/)
 [![gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:joaovictorvale.dev@gmail.com)
-
-## Estatísticas:
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JVictorVale&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=008cff&text_color=008cff&bg_color=0d1117" alt="João Victor Vale Fernandes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVictorVale&layout=compact&hide_border=true&title_color=e3dede1&text_color=2E86C1&bg_color=0d1117" />
-</div>
