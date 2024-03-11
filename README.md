@@ -1,4 +1,4 @@
-## Olá, bem-vindo ao meu GitHub!
+## Olá, bem-vindo ao meu GitHub! :)
 
 - Me chamo João Victor, sou desenvolvedor backend e graduando em Ciência da Computação pelo IFCE.
 
