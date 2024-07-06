@@ -1,14 +1,20 @@
-## Olá, bem-vindo ao meu GitHub! :)
+## Olá, bem-vindo ao meu perfil! :)
 
-- Me chamo João Victor, sou desenvolvedor backend e graduando em Ciência da Computação pelo IFCE.
+<p> Me chamo Victor Vale, sou Desenvolvedor Full Stack e estou me formando em Ciência da Computação. Atualmente sou desenvolvedor bolsista na faculdade. </p>
 
-## Habilidades:
-![CSHARP](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-![NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
-  
-  </div>
+## Tecnologias
+<div>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
+</div>
    
- ## Contato:
-[![linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvictor-vale/)
-[![gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:joaovictorvale.dev@gmail.com)
+ ## Contatos
+ <div>
+   <a href="https://www.linkedin.com/in/jvictor-vale/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   <a href = "mailto:joaovictorvale06@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
