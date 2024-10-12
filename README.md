@@ -1,6 +1,7 @@
-## Olá, bem-vindo ao meu perfil! :)
+## Olá, bem-vindo ao meu perfil!
 
-<p> Me chamo Victor Vale, sou Desenvolvedor Full Stack e estou me formando em Ciência da Computação. Atualmente sou desenvolvedor bolsista na faculdade. </p>
+<p> ᴮᴿ Me chamo Victor Vale, sou Desenvolvedor de Software graduando em Ciência da Computação. Apaixonado por tecnologias e aprender novas skills. </p>
+<p> ᴱᴺ Hello, welcome to my profile! My name is Victor Vale, I am a Software Developer graduating in Computer Science. I am passionate about technologies and learning new skills. </p>
 
 ## Hard Skills
 <div>
