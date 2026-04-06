@@ -1,53 +1,40 @@
-## Olá, bem-vindo ao meu perfil!
+## 👋 Olá, eu sou o Victor Vale!
 
-<p> ᴮᴿ Me chamo Victor Vale, sou Desenvolvedor de Software graduando em Ciência da Computação. Apaixonado por tecnologias e aprender novas skills. </p>
-<p> ᴱᴺ Hello, welcome to my profile! My name is Victor Vale, I am a Software Developer graduating in Computer Science. I am passionate about technologies and learning new skills. </p>
+<p align="left">
+  <strong>Software Developer | Full Stack | Backend</strong>
+</p>
 
-## Hard Skills
+<p> 
+  🇧🇷 Desenvolvedor com mais de 2 anos de experiência prática. Atualmente focado no ecossistema <b>.NET Core</b> e <b>Java/Spring</b>, com sólida vivência em arquitetura de microsserviços, Clean Architecture e testes automatizados (TDD/xUnit).
+</p>
 
-<table>
-  <tr>
-    <td align="center"><b>Linguagens</b></td>
-    <td align="center"><b>Frameworks</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    </td>
-    <td>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" width="50" height="50"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Bancos de Dados</b></td>
-    <td align="center"><b>Cloud & DevOps</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="50"/>
-    </td>
-    <td>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="50" height="50"/>
-    </td>
-  </tr>
-</table>
-   
- ## Contatos
- <div>
-   <a href="https://www.linkedin.com/in/jvictor-vale/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-   <a href = "mailto:joaovictorvale06@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://drive.google.com/file/d/1CJdOfwBMdJ8G54yo5LvhreI4YUqiPH-I/view?usp=sharing" target="_blank">
+<p> 
+🇺🇸 Software Developer with 2+ years of experience. Currently focused on <b>.NET Core</b> and <b>Java/Spring</b>, with solid experience in microservices architecture, Clean Architecture, and automated testing (TDD/xUnit).
+</p>
+
+---
+
+### 🛠️ Hard Skills
+
+**Linguagens & Frameworks**
+* **Backend:** C# (.NET Core), Java (Spring Boot)
+* **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3/SCSS
+
+**Bancos de Dados**
+* SQL Server, MySQL, PostgreSQL e MongoDB
+
+**Cloud & DevOps**
+* Docker, Kubernetes, Microsoft Azure e CI/CD.
+
+---
+
+### 📫 Contatos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jvictorvale/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:joaovictorvale.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
- </div>
+</p>
