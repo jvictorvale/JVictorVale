@@ -24,7 +24,7 @@
 * SQL Server, MySQL, PostgreSQL e MongoDB
 
 **Cloud & DevOps**
-* Docker, Kubernetes, Microsoft Azure e CI/CD.
+* Docker, Kubernetes, Microsoft Azure, AWS, GCP (Google Cloud Platform) e CI/CD.
 
 ---
 
