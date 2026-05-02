@@ -1,34 +1,64 @@
 ## 👋 Olá, eu sou o Victor Vale!
 
 <p align="left">
-  <strong>Software Developer | Full Stack | Backend</strong>
+  <strong>Desenvolvedor de Software | Backend | Full Stack</strong>
 </p>
 
 <p> 
-  🇧🇷 Desenvolvedor com mais de 2 anos de experiência prática. Atualmente focado no ecossistema <b>.NET Core</b> e <b>Java/Spring</b>, com sólida vivência em arquitetura de microsserviços, Clean Architecture e testes automatizados (TDD/xUnit).
+🇧🇷 Desenvolvedor com mais de 2 anos de experiência prática, atuando principalmente no desenvolvimento backend com <b>Java (Spring Boot)</b> e <b>C# (.NET)</b>. Tenho experiência na criação e manutenção de <b>APIs REST</b>, integração entre sistemas e bancos de dados, sempre aplicando boas práticas como <b>Clean Code, SOLID e testes automatizados</b>.  
 </p>
 
 <p> 
-🇺🇸 Software Developer with 2+ years of experience. Currently focused on <b>.NET Core</b> and <b>Java/Spring</b>, with solid experience in microservices architecture, Clean Architecture, and automated testing (TDD/xUnit).
+🇺🇸 Software Developer with 2+ years of practical experience, mainly working with backend development using <b>Java (Spring Boot)</b> e <b>C# (.NET)</b>. Experienced in building and maintaining <b>REST APIs</b>, system integrations, and databases, applying best practices such as <b>Clean Code, SOLID, and automated testing</b>.  
 </p>
 
 ---
 
-### 🛠️ Hard Skills
+### 🚀 Sobre mim
 
-**Linguagens & Frameworks**
-* **Backend:** C# (.NET Core), Java (Spring Boot)
-* **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3/SCSS
-
-**Bancos de Dados**
-* SQL Server, MySQL, PostgreSQL e MongoDB
-
-**Cloud & DevOps**
-* Docker, Kubernetes, Microsoft Azure, AWS, GCP (Google Cloud Platform) e CI/CD.
+- 💻 Experiência com desenvolvimento de APIs REST e integração entre sistemas  
+- 🧠 Foco em backend, com visão full stack (Angular)  
+- 🧪 Experiência com testes automatizados (xUnit, JUnit) e TDD  
+- ⚙️ Vivência com CI/CD, Docker e ambientes em nuvem  
+- 📚 Sempre em evolução, buscando melhorar performance, qualidade de código e arquitetura  
 
 ---
 
-### 📫 Contatos
+### 🛠️ Tecnologias
+
+**Backend**
+- Java (Spring Boot)
+- C# (.NET Core / ASP.NET Core)
+
+**Frontend**
+- Angular
+- TypeScript, JavaScript
+- HTML5, CSS3
+
+**Banco de Dados**
+- SQL Server
+- MySQL
+- PostgreSQL
+- MongoDB (básico)
+
+**DevOps & Cloud**
+- Docker
+- CI/CD
+- Git / GitHub
+- Microsoft Azure
+- AWS
+- GCP
+
+---
+
+### 📌 Projetos em destaque
+
+- 🔗 [academy-manager-backend](https://github.com/jvictorvale/academy-manager-backend)  
+Sistema backend desenvolvido com foco em APIs REST, organização de código e boas práticas.
+
+---
+
+### 📫 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jvictorvale/" target="_blank">
